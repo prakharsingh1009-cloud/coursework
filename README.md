@@ -131,7 +131,7 @@ The program uses repeated division until the number becomes 1 or fails the condi
 
 1. Install Python (version 3 or above).
 2. Download or clone this repository.
-3. Open the Python file in any IDE (VS Code, PyCharm, etc.).
+3. Open the Python file(2025BSDSAI062_PRAKHARSINGH) in any IDE (VS Code, PyCharm, etc.).
 4. Run the program:
 
 ```bash
@@ -156,7 +156,7 @@ After completing this project, the following concepts were understood:
 
 ## Conclusion
 
-This project demonstrates how mathematical concepts can be effectively implemented using programming. It highlights the importance of algorithm design, computational accuracy, and logical reasoning when solving numerical problems.
+This project demonstrates how mathematical concepts can be effectively implemented using programming. It highlights the importance of algorithm design, computational accuracy, and logical reasoning when solving numerical problems.By solving this project i get to know mnay maths tools which can be used in the pyhton coding. 
 
 ---
 
