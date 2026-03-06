@@ -156,7 +156,7 @@ After completing this project, the following concepts were understood:
 
 ## Conclusion
 
-This project demonstrates how mathematical concepts can be effectively implemented using programming. It highlights the importance of algorithm design, computational accuracy, and logical reasoning when solving numerical problems.By solving this project i get to know mnay maths tools which can be used in the pyhton coding. 
+This project demonstrates how mathematical concepts can be effectively implemented using programming. It highlights the importance of algorithm design, computational accuracy, and logical reasoning when solving numerical problems.By solving this project i get to know mnay maths tools which can be used in the python coding. 
 
 ---
 
